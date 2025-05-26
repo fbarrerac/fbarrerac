@@ -2,14 +2,11 @@
 
 ## Acerca de mí
 
-Soy un desarrollador frontend apasionado por la tecnología y el desarrollo. Actualmente tengo la certificación Professional Developer de Digital House y estoy cursando la de Frontend Developer. También estudio la Licenciatura en Informática en la UNLP. Me interesa crear interfaces claras, funcionales y accesibles, que mejoren la experiencia de los usuarios y resuelvan problemas reales. Disfruto del proceso de transformar ideas en productos visuales bien estructurados, y busco siempre aplicar buenas prácticas en el desarrollo frontend.
-
-Estoy comprometido con el aprendizaje constante y valoro mucho el poder aprender en equipo, compartir conocimiento y construir desde la colaboración. Mi objetivo es seguir creciendo como profesional en entornos donde pueda aportar con responsabilidad, dedicación y actitud proactiva.
+Soy un desarrollador frontend apasionado por la tecnología y el desarrollo. Actualmente tengo la certificación Professional Developer de Digital House y estoy cursando la de Frontend Developer. También estudio la Licenciatura en Informática en la UNLP. Disfruto del proceso de transformar ideas en productos visuales bien estructurados, que mejoren la experiencia de los usuarios y resuelvan problemas reales, ademas de buscar siempre aplicar buenas prácticas en el desarrollo frontend. Estoy comprometido con el aprendizaje constante y valoro mucho el poder aprender en equipo, compartir conocimiento y construir desde la colaboración. Mi objetivo es seguir creciendo como profesional en entornos donde pueda aportar con responsabilidad, dedicación y actitud proactiva.
 
 ## Intereses
 
 - Desarrollo web con enfoque en Frontend
-- Creación de interfaces accesibles y funcionales
 - Trabajo en equipo y metodologías ágiles
 - Aprendizaje de nuevas tecnologías web
 - Experiencias digitales que resuelvan problemas reales

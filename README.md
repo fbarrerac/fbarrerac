@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.png" alt="Fernando Banner" width="650">
+  <img src="./assets/banner.png" alt="Fernando Banner" width="550">
 </p>
 
 ## About Me
@@ -16,7 +16,7 @@ My goal is to achieve academic excellence and eventually pursue a Master's degre
 
 <div>
   
-[![SkillIcons](https://skillicons.dev/icons?i=react,js,ts,cpp,html,css,git)](https://skillicons.dev)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=react,redux,js,ts,cpp,postman,git,obsidian)](https://skillicons.dev)<br/>
 </div>
 
 

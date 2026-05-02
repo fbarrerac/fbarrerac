@@ -1,21 +1,46 @@
-<h1 align="center">Hola 👋, soy Fernando Barrera</h1>
+<p align="center">
+  <img src="./assets/banner.png" alt="Fernando Banner">
+</p>
 
-## Acerca de mí
+## About Me
+I am a Computer Science student at the National University of La Plata (UNLP) in Argentina. My focus is on building high-quality frontend experiences where logic and aesthetics meet.
 
-Soy un desarrollador frontend apasionado por la tecnología y el desarrollo. Disfruto del proceso de transformar ideas en productos visuales bien estructurados, que mejoren la experiencia de los usuarios y resuelvan problemas reales, ademas de buscar siempre aplicar buenas prácticas en el desarrollo frontend. Estoy comprometido con el aprendizaje constante y valoro mucho el poder aprender en equipo, compartir conocimiento y construir desde la colaboración. Mi objetivo es seguir creciendo como profesional en entornos donde pueda aportar con responsabilidad, dedicación y actitud proactiva.
+- **Algorithmic Thinking:** I am currently training in data structures and algorithms using C++, preparing for ICPC competitions.
+- **Motion & UI:** I specialize in creating fluid, premium interfaces with **React**, using **GSAP** to bring designs to life through advanced animations.
+- **Continuous Growth:** I integrate AI tools into my daily workflow to optimize my learning process and code efficiency.
 
-## Intereses
-
-- Desarrollo web con enfoque en Frontend
-- Trabajo en equipo y metodologías ágiles
-- Aprendizaje de nuevas tecnologías web
-- Experiencias digitales que resuelvan problemas reales
+My goal is to achieve academic excellence and eventually pursue a Master's degree at top-tier institutions like MIT.
 
 
 ## Languages and Tools:
-<p align="left">  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p>
 
-## Contáctame:
+<div>
+  
+[![SkillIcons](https://skillicons.dev/icons?i=react,js,ts,cpp,html,css,git)](https://skillicons.dev)<br/>
+</div>
+
+
+
+![Top Languages](https://vani-stats.vercel.app/api?username=fbarrerac)
+
+## Contact
 <p align="left">
-<a href="https://www.linkedin.com/in/fbarrerac597/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/fbarrerac597/" target="_blank">
+    <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 256 256" fill="none">
+      <rect width="256" height="256" rx="60" fill="#0A66C2"/>
+      <path d="M184.715 217.685H213.985C216.194 217.685 217.985 215.895 217.985 213.686L218 151.844C218 119.521 211.035 94.6755 173.262 94.6755C158.903 94.1423 145.362 101.544 138.055 113.904C137.997 114.002 137.893 114.062 137.779 114.062C137.603 114.062 137.46 113.919 137.46 113.743V101.66C137.46 99.4511 135.67 97.6602 133.46 97.6602H105.683C103.474 97.6602 101.683 99.4511 101.683 101.66V213.68C101.683 215.89 103.474 217.68 105.683 217.68H134.951C137.16 217.68 138.951 215.89 138.951 213.68V158.307C138.951 142.65 141.921 127.487 161.332 127.487C180.467 127.487 180.715 145.403 180.715 159.321V213.685C180.715 215.894 182.506 217.685 184.715 217.685Z" fill="white"/>
+      <path d="M38 59.6275C38 71.4921 47.7675 81.2539 59.6321 81.2539C71.4944 81.2528 81.2551 71.4853 81.2551 59.623C81.2528 47.7607 71.491 38 59.6275 38C47.763 38 38 47.763 38 59.6275Z" fill="white"/>
+      <path d="M44.9588 217.685H74.2659C76.4751 217.685 78.2659 215.894 78.2659 213.685V101.66C78.2659 99.4511 76.4751 97.6602 74.2659 97.6602H44.9588C42.7497 97.6602 40.9588 99.4511 40.9588 101.66V213.685C40.9588 215.894 42.7497 217.685 44.9588 217.685Z" fill="white"/>
+    </svg>
+  </a>
+  <a href="mailto:fbarrerac597@gmail.com">
+    <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 256 256" fill="none">
+      <rect width="256" height="256" rx="60" fill="#242938"/>
+      <path d="M41.6364 203.028H73.4545V125.755L28 91.6646V189.392C28 196.937 34.1136 203.028 41.6364 203.028Z" fill="#4285F4"/>
+      <path d="M182.545 203.028H214.364C221.909 203.028 228 196.915 228 189.392V91.6646L182.545 125.755" fill="#34A853"/>
+      <path d="M182.545 66.6643V125.755L228 91.6643V73.4825C228 56.6189 208.75 47.0052 195.273 57.1189" fill="#FBBC04"/>
+      <path d="M73.4545 125.755V66.6646L128 107.574L182.545 66.6646V125.755L128 166.665" fill="#EA4335"/>
+      <path d="M28 73.4825V91.6643L73.4545 125.755V66.6643L60.7273 57.1189C47.2273 47.0052 28 56.6189 28 73.4825Z" fill="#C5221F"/>
+    </svg>
+  </a>
 </p>

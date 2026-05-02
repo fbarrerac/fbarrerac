@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.png" alt="Fernando Banner">
+  <img src="./assets/banner.png" alt="Fernando Banner" width="650">
 </p>
 
 ## About Me
